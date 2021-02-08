@@ -57,6 +57,12 @@ PRODUCT_PACKAGES += \
     GesturalNavigationOverlayMedium \
     GesturalNavigationOverlayHidden
 
+# Include Nav-Radius files
+PRODUCT_PACKAGES += \
+    GesturalNavigationRadiusLow \
+    GesturalNavigationRadiusVeryLow \
+    GesturalNavigationRadiusHidden
+
 # Ssos Packages
 PRODUCT_PACKAGES += \
     ThemePicker \
